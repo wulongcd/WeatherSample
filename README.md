@@ -1,3 +1,10 @@
+注意！！！ (该项目不是本人原创！！！该项目不是本人原创！！！该项目不是本人原创！！！)
+===============
+该项目不是本人原创！！！，而是看到github上动画效果不错，所以修改后让项目能跑起来，原创传送门：
+----
+https://raw.github.com/Mixiaoxiao/Weather/master/Weather.gif
+----
+
 Weather (Android app)
 ===============
 
